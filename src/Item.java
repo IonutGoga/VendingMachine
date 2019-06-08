@@ -12,11 +12,11 @@ public enum Item {
         this.product = product;
     }
 
-    public int getPrice(){
+    public int getPrice() {
         return price;
     }
 
-    public String getProduct(){
+    public String getProduct() {
         return product;
     }
 }
